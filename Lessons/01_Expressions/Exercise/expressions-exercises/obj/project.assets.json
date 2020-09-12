@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\expressions-exercises\\Exercises.csproj",
+      "projectUniqueName": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\expressions-exercises\\Exercises.csproj",
       "projectName": "Exercises",
-      "projectPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\expressions-exercises\\Exercises.csproj",
+      "projectPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\expressions-exercises\\Exercises.csproj",
       "packagesPath": "C:\\Users\\Xanth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\expressions-exercises\\obj\\",
+      "outputPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\expressions-exercises\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

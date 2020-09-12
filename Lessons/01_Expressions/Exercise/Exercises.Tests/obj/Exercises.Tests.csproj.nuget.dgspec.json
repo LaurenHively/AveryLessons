@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\Exercises.TEsts\\Exercises.Tests.csproj": {}
+    "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\Exercises.TEsts\\Exercises.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\Exercises.TEsts\\Exercises.Tests.csproj": {
+    "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\Exercises.TEsts\\Exercises.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\Exercises.TEsts\\Exercises.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\Exercises.TEsts\\Exercises.Tests.csproj",
         "projectName": "Exercises.Tests",
-        "projectPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\Exercises.TEsts\\Exercises.Tests.csproj",
+        "projectPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\Exercises.TEsts\\Exercises.Tests.csproj",
         "packagesPath": "C:\\Users\\Xanth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\Exercises.TEsts\\obj\\",
+        "outputPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\Exercises.TEsts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\expressions-exercises\\Exercises.csproj": {
-                "projectPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\expressions-exercises\\Exercises.csproj"
+              "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\expressions-exercises\\Exercises.csproj": {
+                "projectPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\expressions-exercises\\Exercises.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\expressions-exercises\\Exercises.csproj": {
+    "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\expressions-exercises\\Exercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\expressions-exercises\\Exercises.csproj",
+        "projectUniqueName": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\expressions-exercises\\Exercises.csproj",
         "projectName": "Exercises",
-        "projectPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\expressions-exercises\\Exercises.csproj",
+        "projectPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\expressions-exercises\\Exercises.csproj",
         "packagesPath": "C:\\Users\\Xanth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\dotnet\\expressions-exercises\\obj\\",
+        "outputPath": "C:\\Users\\Xanth\\Workspace\\AveryLessons\\Lessons\\01_Expressions\\Exercise\\expressions-exercises\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -19,7 +19,11 @@ namespace Exercises
          */
         public bool MonkeyTrouble(bool aSmile, bool bSmile)
         {
-            return false;
+            bool oneSmiling;
+
+            oneSmiling = aSmile ^ bSmile;
+
+            return !oneSmiling;
         }
 
     }
